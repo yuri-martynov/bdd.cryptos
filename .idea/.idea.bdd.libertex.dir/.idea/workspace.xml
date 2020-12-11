@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39d2a6bd-0bbd-4a4c-bbdf-ee58fa8f7174" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bdd.libertex.dir/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bdd.libertex.dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bdd.libertex.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bdd.libertex.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bdd.libertex.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bdd.libertex.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bdd.libertex.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bdd.libertex.dir/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Tests.elm" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Tests.elm" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmTestAutoTestManager">
+    <enabled-run-configurations>
+      <run-configuration type="ELM_TEST_RUN_CONFIGURATION" name="Elm Test" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects>
+      <project path="$PROJECT_DIR$/elm.json" />
+    </elmProjects>
+    <settings elmCompilerPath="C:\Program Files (x86)\Elm\0.19.1\bin\elm.exe" elmFormatPath="C:\Users\yury.martynov\AppData\Roaming\npm\elm-format.cmd" elmTestPath="C:\Users\yury.martynov\AppData\Roaming\npm\elm-test.cmd" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jk3XGTCZS2YBZuBsjKBmOsZwde" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Elm Test" type="ELM_TEST_RUN_CONFIGURATION" factoryName="Elm Test configuration factory">
+      <ElmTestRunConfiguration elm-folder="C:\Users\yury.martynov\RiderProjects\bdd.libertex" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ELM_TEST_RUN_CONFIGURATION" factoryName="Elm Test configuration factory">
+      <ElmTestRunConfiguration elm-folder="C:\Users\yury.martynov\RiderProjects\bdd.libertex" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39d2a6bd-0bbd-4a4c-bbdf-ee58fa8f7174" name="Default Changelist" comment="" />
+      <created>1604334301996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604334301996</updated>
+      <workItem from="1604334306609" duration="5418000" />
+      <workItem from="1606814694456" duration="26000" />
+      <workItem from="1607005508401" duration="35000" />
+      <workItem from="1607329548698" duration="19000" />
+      <workItem from="1607589942264" duration="685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604334403961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/12.-1080.1920.1040@0.0.1536.824" timestamp="1604334403961" />
+    <state width="989" height="255" key="GridCell.Tab.0.bottom" timestamp="1604585549837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.824/12.-1080.1920.1040@0.0.1536.824" timestamp="1604421632729" />
+    <state width="1373" height="255" key="GridCell.Tab.0.bottom/0.0.1536.824/12.-1080.1920.1040@12.-1080.1920.1040" timestamp="1604583088824" />
+    <state width="989" height="255" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604585549837" />
+    <state width="989" height="255" key="GridCell.Tab.0.center" timestamp="1604585549837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.824/12.-1080.1920.1040@0.0.1536.824" timestamp="1604421632729" />
+    <state width="1373" height="255" key="GridCell.Tab.0.center/0.0.1536.824/12.-1080.1920.1040@12.-1080.1920.1040" timestamp="1604583088824" />
+    <state width="989" height="255" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604585549837" />
+    <state width="989" height="255" key="GridCell.Tab.0.left" timestamp="1604585549837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.824/12.-1080.1920.1040@0.0.1536.824" timestamp="1604421632729" />
+    <state width="1373" height="255" key="GridCell.Tab.0.left/0.0.1536.824/12.-1080.1920.1040@12.-1080.1920.1040" timestamp="1604583088824" />
+    <state width="989" height="255" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604585549837" />
+    <state width="989" height="255" key="GridCell.Tab.0.right" timestamp="1604585549837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.824/12.-1080.1920.1040@0.0.1536.824" timestamp="1604421632729" />
+    <state width="1373" height="255" key="GridCell.Tab.0.right/0.0.1536.824/12.-1080.1920.1040@12.-1080.1920.1040" timestamp="1604583088824" />
+    <state width="989" height="255" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604585549837" />
+    <state x="349" y="147" key="IDE.errors.dialog" timestamp="1604334609026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="147" key="IDE.errors.dialog/0.0.1536.824/12.-1080.1920.1040@0.0.1536.824" timestamp="1604334609026" />
+  </component>
+</project>
