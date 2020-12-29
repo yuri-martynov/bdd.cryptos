@@ -1,5 +1,7 @@
 module Model exposing (..)
 
 
-type alias Model =
-    Int
+type Model
+    = Empty
+    | Number Int
+    | Addition Model Model

@@ -8,6 +8,7 @@ import Html.Events exposing (..)
 import List
 import Model exposing (..)
 import Msg exposing (..)
+import Update exposing (display)
 
 
 btn msg label =
@@ -16,15 +17,16 @@ btn msg label =
         [ text label ]
 
 
-
---buttons =
---    [ btn PlusClick "+"
---    , btn Msg.EqualClick "="
---    ]
+buttons =
+    [ btn Msg.Plus "+"
+    , btn Msg.Minus "-"
+    , btn Msg.Multiply "*"
+    , btn Msg.Equals "="
+    ]
 
 
 digit d =
-    btn (DigitMsg d) (String.fromInt d)
+    btn (Digit d) (String.fromInt d)
 
 
 digits =
@@ -35,8 +37,8 @@ digits =
 view model =
     css
         :: screen model
-        --:: buttons
-        :: digits
+        :: buttons
+        ++ digits
         |> div [ class "calc-body" ]
         |> List.singleton
         |> div [ class "container" ]
@@ -49,7 +51,7 @@ screen model =
 
 
 typed model =
-    [ model |> String.fromInt |> text
+    [ model |> display |> String.fromInt |> text
     , "_" |> text |> List.singleton |> span [ class "blink-me" ]
     ]
         |> div [ class "calc-typed" ]

@@ -3,7 +3,9 @@ module Msg exposing (..)
 import Model exposing (..)
 
 
-type Msg 
-    = DigitMsg Int
-    | PlusMsg
-    
+type Msg
+    = Digit Int
+    | Plus
+    | Minus
+    | Multiply
+    | Equals

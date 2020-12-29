@@ -1,27 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="971d04f9-4cfa-4a9b-a250-01de87bea40a" name="Default Changelist" comment="" />
+    <list default="true" id="971d04f9-4cfa-4a9b-a250-01de87bea40a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.bdd.cryptos.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.bdd.cryptos.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Init.elm" beforeDir="false" afterPath="$PROJECT_DIR$/src/Init.elm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda.elm" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda.elm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model.elm" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model.elm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Msg.elm" beforeDir="false" afterPath="$PROJECT_DIR$/src/Msg.elm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Update.elm" beforeDir="false" afterPath="$PROJECT_DIR$/src/Update.elm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View.elm" beforeDir="false" afterPath="$PROJECT_DIR$/src/View.elm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Tests.elm" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Tests.elm" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ElmTestAutoTestManager">
+    <enabled-run-configurations>
+      <run-configuration type="ELM_TEST_RUN_CONFIGURATION" name="Tests in bdd.cryptos" />
+    </enabled-run-configurations>
+  </component>
   <component name="ElmWorkspace">
     <elmProjects>
       <project path="$PROJECT_DIR$/elm.json" />
     </elmProjects>
-    <settings elmCompilerPath="C:\Program Files (x86)\Elm\0.19.1\bin\elm.exe" elmFormatPath="C:\Users\yury.martynov\AppData\Roaming\npm\elm-format.cmd" elmTestPath="C:\Users\yury.martynov\AppData\Roaming\npm\elm-test.cmd" isElmFormatOnSaveEnabled="false" />
+    <settings elmCompilerPath="C:\Program Files (x86)\Elm\0.19.1\bin\elm.exe" elmFormatPath="C:\Users\yury.martynov\AppData\Roaming\npm\elm-format.cmd" elmTestPath="C:\Users\yury.martynov\AppData\Roaming\npm\elm-test.cmd" isElmFormatOnSaveEnabled="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/src/Lambda.elm" />
-      <option value="$PROJECT_DIR$/src/Init.elm" />
       <option value="$PROJECT_DIR$/src/Model.elm" />
-      <option value="$PROJECT_DIR$/src/Msg.elm" />
+      <option value="$PROJECT_DIR$/src/Init.elm" />
       <option value="$PROJECT_DIR$/tests/Tests.elm" />
-      <option value="$PROJECT_DIR$/src/View.elm" />
       <option value="$PROJECT_DIR$/src/Update.elm" />
+      <option value="$PROJECT_DIR$/src/Msg.elm" />
+      <option value="$PROJECT_DIR$/src/View.elm" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lSXO4RqiNgoappNgBU0QQ6y5z9" />
@@ -41,7 +61,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.environmentSetup" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -63,11 +83,28 @@
       <option name="presentableId" value="Default" />
       <updated>1607591432730</updated>
       <workItem from="1607591434649" duration="11300000" />
+      <workItem from="1608028046294" duration="11324000" />
+      <workItem from="1608204513633" duration="646000" />
+      <workItem from="1608729758494" duration="3134000" />
+      <workItem from="1608821450413" duration="11365000" />
+      <workItem from="1609249059827" duration="6216000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

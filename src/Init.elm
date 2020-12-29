@@ -4,4 +4,4 @@ import Model exposing (..)
 
 
 init =
-    0
+    Empty
