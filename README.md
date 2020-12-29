@@ -12,4 +12,5 @@
 - Additional dev tools:
   - VS Code with ELM extensions.
   - npm i -g elm-format
+  - Any JetBrains IDE (WebStorm, etc...) with ELM plugin
   
